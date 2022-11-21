@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehanprima12&theme=dracula&rank=-?)](https://github.com/rehanprima12/rehanprima12)
 
-[![@al_user12's Holopin board](https://holopin.me/al_user12)](https://holopin.io/@al_user12)
+
 
 <img title="rehanprima12" src="https://komarev.com/ghpvc/?username=rehanprima12&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
 

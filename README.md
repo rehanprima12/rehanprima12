@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Han Jong Suk</h1>
+<h3 align="center">Sedang Belajar Github</h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehanprima12&theme=dracula&rank=-?)](https://github.com/rehanprima12/rehanprima12)
 
 

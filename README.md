@@ -9,9 +9,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-alfikrikm2@gmail.com-black?style=flat&logo=Gmail&link=mailto:rehanprima1@yahoo.com)](mailto:rehanprima1@yahoo.com) 
 [![Github Badge](https://img.shields.io/badge/rehanprima12-black?style=flat&logo=github&link=https://github.com/rehanprima12)](https://www.github.com/rehanprima12) 
-[![Twitter Badge](https://img.shields.io/badge/-xafkmx-black?style=flat&logo=twitter&link=https://twitter.com/xafkmx)](https://twitter.com/rehanprima12) 
-[![Facebook Badge](https://img.shields.io/badge/-itsme.fikri-black?style=flat&logo=facebook&link=https://facebook.com/itsme.fikri)](https://facebook.com/rehanprimadoni2)
-[![Telegram Badge](https://img.shields.io/badge/-Al_User12-black?style=flat&logo=telegram&link=https://telegram.me/Al_User12)](https://telegram.me/HanJongSuk)
+[![Twitter Badge](https://img.shields.io/badge/-xafkmx-black?style=flat&logo=twitter&link=https://twitter.com/rehanprima12)](https://twitter.com/rehanprima12) 
+[![Facebook Badge](https://img.shields.io/badge/-itsme.fikri-black?style=flat&logo=facebook&link=https://facebook.com/rehanprima1w)](https://facebook.com/rehanprimadoni2)
+[![Telegram Badge](https://img.shields.io/badge/-Al_User12-black?style=flat&logo=telegram&link=https://telegram.me/HanJongSuk)](https://telegram.me/HanJongSuk)
 
 
 

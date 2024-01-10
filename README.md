@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Han Jong Suk</h1>
-<h3 align="center">Sedang Belajar Github</h3>
+<h3 align="center">AIGOOOOO, ANYONG ASIMIKAAAA</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehanprima12&theme=dracula&rank=-?)](https://github.com/rehanprima12/rehanprima12)
 
+- 💬 Ramyeon, Moko Galle?
 
 - 💬 Ask me about **Anything**
 
